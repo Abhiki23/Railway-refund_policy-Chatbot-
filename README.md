@@ -67,7 +67,7 @@ This approach allows the application to use a domain-specific knowledge source w
                     │   Vector Database    │
                     └──────────┬───────────┘
                                │
-             User Question    │
+              User Question    │
                     │          │
                     ▼          │
           ┌────────────────┐   │
