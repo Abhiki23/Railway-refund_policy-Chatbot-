@@ -778,10 +778,6 @@ Grounded Answer
 
 **Abhishek Kundley**  
 AI / Generative AI Engineer
-
-- **GitHub:** Add your GitHub profile URL
-- **LinkedIn:** Add your LinkedIn profile URL
-
 ---
 
 ## License
